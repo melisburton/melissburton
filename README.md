@@ -1,9 +1,11 @@
 # melissburton
 ### Melissa, from Boston!
  
-My work involves helping people automate business processes with the Microsoft Power Platform :monocle_face:. I also do some front-end web development.
+My work involves helping people automate business processes with the Microsoft Power Platform :monocle_face:. I also take care of people's front-end web development needs once in a while.
 
-I'm currently learning Japanese.
+I'm currently learning Japanese, maybe I can eventually understand what they are saying in NJPW. 
+
+My hobbies include cooking and fitness, though I'm pretty beginner level at both even after years into it :laughing:
 
 Here's my [LinkedIn](https://www.linkedin.com/in/msburton/)
 
