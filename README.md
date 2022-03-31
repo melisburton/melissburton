@@ -1,7 +1,7 @@
 # melissburton
 ### Melissa, from Boston!
  
-My work involves helping people automate business processes with the Microsoft Power Platform :monocle_face:. I also take care of people's front-end web development needs once in a while.
+My work involves helping people automate business processes with the Microsoft Power Platform :monocle_face:.  I also have a decent amount of front-end web development experience.
 
 I'm currently learning Japanese, maybe I can eventually understand what they are saying in NJPW. 
 
