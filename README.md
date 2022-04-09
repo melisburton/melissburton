@@ -1,3 +1,3 @@
-# melissburton 
+# spare
 
-Made this file under melissburton but my account is really melisburton! So now I have this extra repository!
+Originally named  melissburton but my account is really melisburton! So now I have this extra repository!
